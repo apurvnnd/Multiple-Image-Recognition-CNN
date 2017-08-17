@@ -9,6 +9,10 @@
 This CNN reads for 3 animals, if you want to add more, 
 **change output_dim = *desired number of animals/humans* in the defined output layer**
 
+Program run on:
+- Spyder
+- Python 3.5
+
 Libraries used: 
 - Keras 
 - scikit-learn 
