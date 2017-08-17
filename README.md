@@ -3,16 +3,16 @@
   
 [Dataset](http://www.superdatascience.com/wp-content/uploads/2017/04/Convolutional_Neural_Networks.zip)
 
--The above mentioned dataset includes only two animals, Cats and Dogs. 
--I added another animal in the dataset, so you are free to choose your own.
+- The above mentioned dataset includes only two animals, Cats and Dogs. 
+- I added another animal in the dataset, so you are free to choose your own.
 
 This CNN reads for 3 animals, if you want to add more, 
 **change output_dim = *desired number of animals/humans* in the defined output layer**
 
 Libraries used: 
--Keras 
--scikit-learn 
--Tensorflow
+- Keras 
+- scikit-learn 
+- Tensorflow
 
 
 Steps Applied : 
