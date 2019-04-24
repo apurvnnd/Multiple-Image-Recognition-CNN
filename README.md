@@ -1,7 +1,7 @@
 # Multiple-Image-Recognition-CNN
 
   
-[Dataset](http://www.superdatascience.com/wp-content/uploads/2017/04/Convolutional_Neural_Networks.zip)
+[Dataset](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P16-Convolutional-Neural-Networks.zip)
 
 - The above mentioned dataset includes only two animals, Cats and Dogs. 
 - I added another animal in the dataset, so you are free to choose your own.
